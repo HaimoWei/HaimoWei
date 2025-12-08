@@ -7,20 +7,25 @@
 </p>
 
 <p align="center">
-  Full-stack developer with strong architectural foundations, using AI-assisted workflows for rapid prototyping and delivery. I focus on scalable microservices and production-ready systems, balancing speed, reliability, and clean code. Always learning, always shipping.
+  Master's student in Computer Science (Software Engineering) at the University of Sydney. Full-stack developer specializing in microservices architecture and cloud-native applications. Built and deployed 4 production-grade systems end-to-end. Seeking a long-term role to grow and contribute.
 </p>
 
 ---
 
 ## Tech Stack
 
+**Backend:**
 ![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=flat-square&logo=spring)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-4.x-092E20?style=flat-square&logo=django)
+
+**Frontend:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)
+
+**Data & DevOps:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-S3%20|%20EC2%20|%20ECR-FF9900?style=flat-square&logo=amazonaws)
@@ -109,5 +114,5 @@
 
 
 <p align="center">
-  <i>Open to internship and job opportunities. Feel free to reach out!</i>
+  <i>Open to full-time and internship opportunities. Let's connect!</i>
 </p>
