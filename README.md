@@ -46,6 +46,8 @@
 ![AWS](https://img.shields.io/badge/AWS-S3%20|%20CloudFront%20|%20ECR-FF9900?style=flat-square&logo=amazonaws)
 ![Deployed](https://img.shields.io/badge/Deployed-Production-success?style=flat-square)
 
+![KoalaSwap](images/koalaswap.png)
+
 - 7 microservices architecture with Spring Cloud Gateway
 - Real-time buyer-seller chat via WebSocket + Redis Pub/Sub
 - JWT authentication with distributed token invalidation
@@ -64,6 +66,8 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=flat-square&logo=openai)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Ready-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Deployed](https://img.shields.io/badge/Deployed-Production-success?style=flat-square)
+
+![AI Menu System](images/aimenusystem.png)
 
 - LangChain + LangGraph agents with custom tools for conversational ordering
 - Real-time WebSocket updates for multi-device synchronization
@@ -84,6 +88,8 @@
 ![Test Coverage](https://img.shields.io/badge/Coverage-85%25+-success?style=flat-square&logo=codecov)
 ![Deployed](https://img.shields.io/badge/Deployed-Production-success?style=flat-square)
 
+![ShopTheLook](images/shopthelook.png)
+
 - 8 microservices with API Gateway and inter-service communication
 - Multi-tier authorization (ROOT Admin → Seller → User) with impersonation
 - Complete e-commerce + social features (posts, likes, comments, follows)
@@ -101,6 +107,8 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-10.11-003545?style=flat-square&logo=mariadb)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Deployed](https://img.shields.io/badge/Deployed-Production-success?style=flat-square)
+
+![CyberLight](images/cyberlight.png)
 
 - Custom classroom & reporting plugins for teaching workflows
 - Dynamic Docker challenges with per-student isolated containers via FRP
