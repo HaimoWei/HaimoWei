@@ -17,6 +17,8 @@
 **Backend:**
 ![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=flat-square&logo=spring)
+![Node.js](https://img.shields.io/badge/Node.js-20-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-4.x-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-4.x-092E20?style=flat-square&logo=django)
 
@@ -30,7 +32,12 @@
 ![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-S3%20|%20EC2%20|%20ECR-FF9900?style=flat-square&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-20.10+-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Ready-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Tools & Practices:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-Scrum-2496ED?style=flat-square)
 
 ---
 

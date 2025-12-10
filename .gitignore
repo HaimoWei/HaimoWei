@@ -9,6 +9,10 @@ Thumbs.db
 # Node
 node_modules/
 
+nul
+
 # Misc
 *.log
 .claude
+
+resume_outline.md
