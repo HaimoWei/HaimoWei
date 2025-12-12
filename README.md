@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="mailto:weihaimoau@gmail.com"><img src="https://img.shields.io/badge/Email-weihaimoau%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/haimowei/"><img src="https://img.shields.io/badge/LinkedIn-haimowei-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/HaimoWei"><img src="https://img.shields.io/badge/GitHub-HaimoWei-181717?style=flat-square&logo=github" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/Location-Sydney%2C%20Australia-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location">
 </p>
@@ -122,7 +123,9 @@
 - 200+ curated CTF challenges across multiple categories
 - Production deployment for university cybersecurity courses
 
-🔗 [Repository](https://github.com/HaimoWei/cyber-light-ctf-platform) · 🌐 [Live Demo](https://ctf.lightspot.uk)
+🔗 [Repository](https://github.com/HaimoWei/cyber-light-overview) · 🌐 [Live Demo](https://ctf.lightspot.uk)
+
+> ⚠️ **Note:** Due to commercial contract restrictions, only the README is public. Source code available upon request for interview purposes.
 
 ---
 
